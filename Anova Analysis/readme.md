@@ -1,1 +1,2 @@
-One way anova analysis of school dataset. The goal is to find out if the means of the dataset are varied from each other.
+One way anova analysis of school dataset. </br>
+The goal is to find out if the means of the dataset are varied from each other.
