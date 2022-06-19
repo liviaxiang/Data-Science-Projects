@@ -11,7 +11,7 @@ Self-hosted web using streamlit library with cosine similarity model.
 Implementing natural language processing libraries on tweets to classify public sentiment through Twitter API.
 <br/>
 
-## [k-mean clustering Analysis](https://github.com/liviaxiang/Data-Science-Projects/tree/main/K-Mean%20Clustering%20Analysis)
+## [K-Mean Clustering Analysis](https://github.com/liviaxiang/Data-Science-Projects/tree/main/K-Mean%20Clustering%20Analysis)
 Performing k-mean clustering analysis on wine data set.
 
 ## [Artificial Neural Network Model Build From Scrach](https://github.com/liviaxiang/Data-Science-Projects/tree/main/Artificial%20Neural%20Network%20Model%20Build%20from%20Scrach)
